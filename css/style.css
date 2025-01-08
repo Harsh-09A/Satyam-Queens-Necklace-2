@@ -67,7 +67,7 @@ header {
 }
 @media screen and (max-width: 600px) {
   .navbar-brand img {
-    height: 45px;
+    height: 60px;
   }
 }
 
@@ -89,7 +89,7 @@ main {
 
 @media screen and (max-width: 600px) {
   .carousel-item .banner1 {
-    content: url("../img/banners/mobile_banner1.jpg");
+    content: url("../img/banners/mobile_banner3.jpg");
   }
   .carousel-item .banner2 {
     content: url("../img/banners/mobile_banner2.jpg");
